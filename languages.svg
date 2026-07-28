@@ -1,172 +1,171 @@
-<svg width="1000" height="900" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 900">
+<svg width="900" height="820" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 820">
+  <rect width="900" height="820" fill="white"/>
 
-  <!-- White background -->
-  <rect width="1000" height="900" fill="white"/>
-
-  <!-- Title -->
-  <text x="500" y="55" font-family="Arial,sans-serif" font-size="30"
+  <text x="450" y="54" font-family="Arial,sans-serif" font-size="30"
         fill="#111" text-anchor="middle" font-weight="700">Most Popular Programming Languages</text>
-  <text x="500" y="82" font-family="Arial,sans-serif" font-size="15"
+  <text x="450" y="80" font-family="Arial,sans-serif" font-size="15"
         fill="#888" text-anchor="middle">Sanivarapu Sai Charan — Skill Proficiency</text>
 
-  <!-- Donut slices -->
-  <path d="M 504.01,230.04 A 230,230 0 0,1 574.88,677.47 L 535.81,564.01 A 110,110 0 0,0 501.92,350.02 Z" fill="#3670A0" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.00s" fill="freeze"/></path><path d="M 567.25,679.95 A 230,230 0 0,1 316.31,598.42 L 412.15,526.20 A 110,110 0 0,0 532.16,565.19 Z" fill="#c8a800" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.10s" fill="freeze"/></path><path d="M 311.60,591.92 A 230,230 0 0,1 271.35,435.16 L 390.64,448.12 A 110,110 0 0,0 409.89,523.09 Z" fill="#E44D26" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.20s" fill="freeze"/></path><path d="M 272.35,427.20 A 230,230 0 0,1 311.60,328.08 L 409.89,396.91 A 110,110 0 0,0 391.12,444.31 Z" fill="#264DE4" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.30s" fill="freeze"/></path><path d="M 316.31,321.58 A 230,230 0 0,1 385.70,260.41 L 445.33,364.55 A 110,110 0 0,0 412.15,393.80 Z" fill="#00599C" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.40s" fill="freeze"/></path><path d="M 392.73,256.55 A 230,230 0 0,1 452.97,234.86 L 477.51,352.32 A 110,110 0 0,0 448.70,362.70 Z" fill="#44B78B" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.50s" fill="freeze"/></path><path d="M 460.85,233.36 A 230,230 0 0,1 495.99,230.04 L 498.08,350.02 A 110,110 0 0,0 481.28,351.61 Z" fill="#4479A1" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.60s" fill="freeze"/></path>
+  <path d="M453.8,210.0 A220,220 0 0,1 521.6,638.0 L485.2,532.1 A108,108 0 0,0 451.9,322.0 Z" fill="#3670A0" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/></path>
+<path d="M514.3,640.4 A220,220 0 0,1 274.3,562.4 L363.7,495.0 A108,108 0 0,0 481.6,533.3 Z" fill="#c8a800" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.10s" fill="freeze"/></path>
+<path d="M269.8,556.2 A220,220 0 0,1 231.3,406.2 L342.6,418.3 A108,108 0 0,0 361.5,491.9 Z" fill="#E44D26" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.20s" fill="freeze"/></path>
+<path d="M232.2,398.6 A220,220 0 0,1 269.8,303.8 L361.5,368.1 A108,108 0 0,0 343.1,414.6 Z" fill="#264DE4" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/></path>
+<path d="M274.3,297.6 A220,220 0 0,1 340.7,239.1 L396.3,336.3 A108,108 0 0,0 363.7,365.0 Z" fill="#00599C" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.40s" fill="freeze"/></path>
+<path d="M347.4,235.4 A220,220 0 0,1 405.0,214.6 L427.9,324.3 A108,108 0 0,0 399.6,334.5 Z" fill="#44B78B" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.50s" fill="freeze"/></path>
+<path d="M412.6,213.2 A220,220 0 0,1 446.2,210.0 L448.1,322.0 A108,108 0 0,0 431.6,323.6 Z" fill="#4479A1" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/></path>
 
-  <!-- White center hole -->
-  <circle cx="500" cy="460" r="107" fill="white"/>
 
-  <!-- Center text -->
-  <text x="500" y="448" font-family="Arial,sans-serif" font-size="14"
-        fill="#888" text-anchor="middle">Top Language</text>
-  <text x="500" y="478" font-family="Arial,sans-serif" font-size="30"
+  <circle cx="450" cy="430" r="106" fill="white"/>
+
+  <text x="450" y="418" font-family="Arial,sans-serif" font-size="14"
+        fill="#aaa" text-anchor="middle">Top Language</text>
+  <text x="450" y="450" font-family="Arial,sans-serif" font-size="28"
         fill="#3670A0" text-anchor="middle" font-weight="700">Python</text>
-  <text x="500" y="504" font-family="Arial,sans-serif" font-size="16"
-        fill="#555" text-anchor="middle">45%</text>
+  <text x="450" y="476" font-family="Arial,sans-serif" font-size="16"
+        fill="#666" text-anchor="middle">45%</text>
 
-  <!-- Labels -->
   
-    <line x1="739.0" y1="422.1" x2="796.3" y2="413.1"
-          stroke="#3670A0" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.40s" fill="freeze"/>
-    </line>
-    <line x1="796.3" y1="413.1" x2="831.3" y2="413.1"
-          stroke="#3670A0" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.40s" fill="freeze"/>
-    </line>
-    <text x="837.3" y="408.1"
-          font-family="Arial,sans-serif" font-size="16" font-weight="700"
-          fill="#111" text-anchor="start" opacity="0">
-      Python
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.40s" fill="freeze"/>
-    </text>
-    <text x="837.3" y="427.1"
-          font-family="Arial,sans-serif" font-size="14"
-          fill="#666" text-anchor="start" opacity="0">
-      45%
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.40s" fill="freeze"/>
-    </text>
-    <line x1="425.2" y1="690.2" x2="407.3" y2="745.3"
-          stroke="#c8a800" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/>
-    </line>
-    <line x1="407.3" y1="745.3" x2="372.3" y2="745.3"
-          stroke="#c8a800" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/>
-    </line>
-    <text x="366.3" y="740.3"
-          font-family="Arial,sans-serif" font-size="16" font-weight="700"
-          fill="#111" text-anchor="end" opacity="0">
-      JavaScript
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/>
-    </text>
-    <text x="366.3" y="759.3"
-          font-family="Arial,sans-serif" font-size="14"
-          fill="#666" text-anchor="end" opacity="0">
-      20%
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/>
-    </text>
-    <line x1="265.6" y1="520.2" x2="209.4" y2="534.6"
-          stroke="#E44D26" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/>
-    </line>
-    <line x1="209.4" y1="534.6" x2="174.4" y2="534.6"
-          stroke="#E44D26" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/>
-    </line>
-    <text x="168.4" y="529.6"
-          font-family="Arial,sans-serif" font-size="16" font-weight="700"
-          fill="#111" text-anchor="end" opacity="0">
-      HTML5
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/>
-    </text>
-    <text x="168.4" y="548.6"
-          font-family="Arial,sans-serif" font-size="14"
-          fill="#666" text-anchor="end" opacity="0">
-      12%
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/>
-    </text>
-    <line x1="275.0" y1="370.9" x2="221.1" y2="349.6"
-          stroke="#264DE4" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/>
-    </line>
-    <line x1="221.1" y1="349.6" x2="186.1" y2="349.6"
-          stroke="#264DE4" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/>
-    </line>
-    <text x="180.1" y="344.6"
-          font-family="Arial,sans-serif" font-size="16" font-weight="700"
-          fill="#111" text-anchor="end" opacity="0">
-      CSS3
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/>
-    </text>
-    <text x="180.1" y="363.6"
-          font-family="Arial,sans-serif" font-size="14"
-          fill="#666" text-anchor="end" opacity="0">
-      8%
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/>
-    </text>
-    <line x1="340.0" y1="278.5" x2="301.6" y2="235.0"
-          stroke="#00599C" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
-    </line>
-    <line x1="301.6" y1="235.0" x2="266.6" y2="235.0"
-          stroke="#00599C" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
-    </line>
-    <text x="260.6" y="230.0"
-          font-family="Arial,sans-serif" font-size="16" font-weight="700"
-          fill="#111" text-anchor="end" opacity="0">
-      C++
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
-    </text>
-    <text x="260.6" y="249.0"
-          font-family="Arial,sans-serif" font-size="14"
-          fill="#666" text-anchor="end" opacity="0">
-      7%
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
-    </text>
-    <line x1="418.0" y1="232.3" x2="398.4" y2="177.7"
-          stroke="#44B78B" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
-    </line>
-    <line x1="398.4" y1="177.7" x2="363.4" y2="177.7"
-          stroke="#44B78B" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
-    </line>
-    <text x="357.4" y="172.7"
-          font-family="Arial,sans-serif" font-size="16" font-weight="700"
-          fill="#111" text-anchor="end" opacity="0">
-      Django
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
-    </text>
-    <text x="357.4" y="191.7"
-          font-family="Arial,sans-serif" font-size="14"
-          fill="#666" text-anchor="end" opacity="0">
-      5%
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
-    </text>
-    <line x1="477.2" y1="219.1" x2="471.8" y2="161.3"
-          stroke="#4479A1" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
-    </line>
-    <line x1="471.8" y1="161.3" x2="436.8" y2="161.3"
-          stroke="#4479A1" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
-    </line>
-    <text x="430.8" y="156.3"
-          font-family="Arial,sans-serif" font-size="16" font-weight="700"
-          fill="#111" text-anchor="end" opacity="0">
-      MySQL
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
-    </text>
-    <text x="430.8" y="175.3"
-          font-family="Arial,sans-serif" font-size="14"
-          fill="#666" text-anchor="end" opacity="0">
-      3%
-      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
-    </text>
+  <line x1="677.2" y1="394.0" x2="731.5" y2="385.4"
+        stroke="#3670A0" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/>
+  </line>
+  <line x1="731.5" y1="385.4" x2="763.5" y2="385.4"
+        stroke="#3670A0" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/>
+  </line>
+  <text x="768.5" y="380.4"
+        font-family="Arial,sans-serif" font-size="16" font-weight="700"
+        fill="#111" text-anchor="start" opacity="0">
+    Python
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/>
+  </text>
+  <text x="768.5" y="399.4"
+        font-family="Arial,sans-serif" font-size="13"
+        fill="#666" text-anchor="start" opacity="0">
+    45%
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/>
+  </text>
+  <line x1="378.9" y1="648.7" x2="361.9" y2="701.1"
+        stroke="#c8a800" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/>
+  </line>
+  <line x1="361.9" y1="701.1" x2="329.9" y2="701.1"
+        stroke="#c8a800" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/>
+  </line>
+  <text x="324.9" y="696.1"
+        font-family="Arial,sans-serif" font-size="16" font-weight="700"
+        fill="#111" text-anchor="end" opacity="0">
+    JavaScript
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/>
+  </text>
+  <text x="324.9" y="715.1"
+        font-family="Arial,sans-serif" font-size="13"
+        fill="#666" text-anchor="end" opacity="0">
+    20%
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/>
+  </text>
+  <line x1="227.2" y1="487.2" x2="174.0" y2="500.9"
+        stroke="#E44D26" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/>
+  </line>
+  <line x1="174.0" y1="500.9" x2="142.0" y2="500.9"
+        stroke="#E44D26" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/>
+  </line>
+  <text x="137.0" y="495.9"
+        font-family="Arial,sans-serif" font-size="16" font-weight="700"
+        fill="#111" text-anchor="end" opacity="0">
+    HTML5
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/>
+  </text>
+  <text x="137.0" y="514.9"
+        font-family="Arial,sans-serif" font-size="13"
+        fill="#666" text-anchor="end" opacity="0">
+    12%
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/>
+  </text>
+  <line x1="236.2" y1="345.3" x2="185.0" y2="325.1"
+        stroke="#264DE4" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
+  </line>
+  <line x1="185.0" y1="325.1" x2="153.0" y2="325.1"
+        stroke="#264DE4" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
+  </line>
+  <text x="148.0" y="320.1"
+        font-family="Arial,sans-serif" font-size="16" font-weight="700"
+        fill="#111" text-anchor="end" opacity="0">
+    CSS3
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
+  </text>
+  <text x="148.0" y="339.1"
+        font-family="Arial,sans-serif" font-size="13"
+        fill="#666" text-anchor="end" opacity="0">
+    8%
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
+  </text>
+  <line x1="297.9" y1="257.5" x2="261.5" y2="216.2"
+        stroke="#00599C" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
+  </line>
+  <line x1="261.5" y1="216.2" x2="229.5" y2="216.2"
+        stroke="#00599C" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
+  </line>
+  <text x="224.5" y="211.2"
+        font-family="Arial,sans-serif" font-size="16" font-weight="700"
+        fill="#111" text-anchor="end" opacity="0">
+    C++
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
+  </text>
+  <text x="224.5" y="230.2"
+        font-family="Arial,sans-serif" font-size="13"
+        fill="#666" text-anchor="end" opacity="0">
+    7%
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
+  </text>
+  <line x1="372.1" y1="213.6" x2="353.5" y2="180.3"
+        stroke="#44B78B" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
+  </line>
+  <line x1="353.5" y1="180.3" x2="321.5" y2="180.3"
+        stroke="#44B78B" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
+  </line>
+  <text x="316.5" y="175.3"
+        font-family="Arial,sans-serif" font-size="16" font-weight="700"
+        fill="#111" text-anchor="end" opacity="0">
+    Django
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
+  </text>
+  <text x="316.5" y="194.3"
+        font-family="Arial,sans-serif" font-size="13"
+        fill="#666" text-anchor="end" opacity="0">
+    5%
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
+  </text>
+  <line x1="428.4" y1="201.0" x2="423.2" y2="146.3"
+        stroke="#4479A1" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.10s" fill="freeze"/>
+  </line>
+  <line x1="423.2" y1="146.3" x2="391.2" y2="146.3"
+        stroke="#4479A1" stroke-width="1.8" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.10s" fill="freeze"/>
+  </line>
+  <text x="386.2" y="141.3"
+        font-family="Arial,sans-serif" font-size="16" font-weight="700"
+        fill="#111" text-anchor="end" opacity="0">
+    MySQL
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.10s" fill="freeze"/>
+  </text>
+  <text x="386.2" y="160.3"
+        font-family="Arial,sans-serif" font-size="13"
+        fill="#666" text-anchor="end" opacity="0">
+    3%
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.10s" fill="freeze"/>
+  </text>
 
-  <!-- Footer -->
-  <text x="500" y="886" font-family="Arial,sans-serif" font-size="12"
-        fill="#bbb" text-anchor="middle">github.com/saicharanindia • Skill based • 2026</text>
+  <text x="450" y="806" font-family="Arial,sans-serif" font-size="11"
+        fill="#ccc" text-anchor="middle">github.com/saicharanindia • Skill based • 2026</text>
 </svg>
