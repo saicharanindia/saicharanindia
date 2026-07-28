@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Sanivarapu%20Sai%20Charan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Sanivarapu%20Sai%20Charan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20SAP%20Certified%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=16" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&random=false&width=850&height=60&lines=🚀+Full+Stack+Software+Engineer;🤖+AI+%26+ML+Enthusiast;🏆+Hackathon+Winner+%40+Vignan+University;⚡+Building+Scalable+%26+Smart+Solutions;🌟+Open+Source+Contributor+%26+Mentor;💻+Django+%7C+Python+%7C+JavaScript+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&random=false&width=850&height=60&lines=Software+Engineer+%7C+SAP+Certified;AI+%26+ML+Enthusiast;Hackathon+Winner+%40+Vignan+University;Building+Scalable+%26+Smart+Solutions;Open+Source+Contributor+%26+Mentor;Python+%7C+Django+%7C+JavaScript+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@
 
 ```yaml
 name: Sanivarapu Sai Charan
-role: Software Engineer | Full Stack Developer
+role: Software Engineer | SAP Certified | AI Enthusiast
 location: Guntur, Andhra Pradesh, India
 education: BTech Information Technology @ Vignan's Foundation (Expected 2027)
 gpa: 7.5/10
