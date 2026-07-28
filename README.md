@@ -324,22 +324,21 @@ Scale: Multi-class Institution
 
 <div align="center">
 
-<!-- Row 1: Stats + Streak side by side -->
+<!-- GitHub Stats Card - using anuraghazra's reliable instance -->
+<img src="https://github-readme-stats.vercel.app/api?username=saicharanindia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=saicharanindia&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saicharanindia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=saicharanindia&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-<!-- Row 2: Top Languages -->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanindia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanindia&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="220" alt="Top Languages"/>
 
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saicharanindia&theme=tokyo-night&hide_border=true&area=true)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharanindia&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ### 🐍 Contribution Snake
@@ -353,9 +352,7 @@ Scale: Multi-class Institution
 
 ### 🏆 GitHub Trophies
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7)
-
+<img src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
 </div>
 
 ---
