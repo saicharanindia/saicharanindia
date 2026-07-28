@@ -1,82 +1,120 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg width="760" height="420" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1117"/>
       <stop offset="100%" style="stop-color:#161b22"/>
     </linearGradient>
-    <linearGradient id="py" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#3776AB"/>
-      <stop offset="100%" style="stop-color:#FFD43B"/>
-    </linearGradient>
-    <linearGradient id="js" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#F7DF1E"/>
-      <stop offset="100%" style="stop-color:#f0c000"/>
-    </linearGradient>
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <style>
-      .bar { animation: grow 1.5s ease-out forwards; transform-origin: left; }
-      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-      .label { font-family: "Segoe UI", sans-serif; fill: #e6edf3; font-size: 13px; font-weight: 600; }
-      .pct { font-family: "Segoe UI", sans-serif; fill: #7aa2f7; font-size: 12px; font-weight: 700; }
-      .title { font-family: "Segoe UI", sans-serif; fill: #7aa2f7; font-size: 18px; font-weight: 700; }
-    </style>
   </defs>
 
   <!-- Background -->
-  <rect width="800" height="400" rx="12" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
+  <rect width="760" height="420" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
 
   <!-- Title -->
-  <text x="40" y="45" class="title">💻 Most Used Languages</text>
-  <line x1="40" y1="58" x2="760" y2="58" stroke="#30363d" stroke-width="1"/>
+  <text x="380" y="38" font-family="Segoe UI,sans-serif" font-size="20" fill="#7aa2f7" text-anchor="middle" font-weight="700">💻 Most Used Languages</text>
+  <line x1="30" y1="52" x2="730" y2="52" stroke="#30363d" stroke-width="1"/>
 
-  <!-- Language bars -->
-  <!-- Python 45% -->
-  <text x="40" y="90" class="label">Python</text>
-  <rect x="160" y="74" width="540" height="20" rx="10" fill="#21262d"/>
-  <rect x="160" y="74" width="243" height="20" rx="10" fill="url(#py)" filter="url(#glow)" class="bar"/>
-  <text x="712" y="90" class="pct">45%</text>
+  <!-- Donut chart -->
+  
+    <path d="M 200.00 40.00 A 160 160 0 0 1 250.77 351.73 L 225.38 275.87 A 80 80 0 0 0 200.00 120.00 Z" fill="#3776AB" stroke="#0d1117" stroke-width="2" opacity="0.9">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.0s" fill="freeze"/>
+    </path>
+    <path d="M 249.44 352.17 A 160 160 0 0 1 71.38 295.17 L 135.69 247.59 A 80 80 0 0 0 224.72 276.08 Z" fill="#F7DF1E" stroke="#0d1117" stroke-width="2" opacity="0.9">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.1s" fill="freeze"/>
+    </path>
+    <path d="M 70.56 294.05 A 160 160 0 0 1 41.09 181.33 L 120.55 190.67 A 80 80 0 0 0 135.28 247.02 Z" fill="#E34F26" stroke="#0d1117" stroke-width="2" opacity="0.9">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.3s" fill="freeze"/>
+    </path>
+    <path d="M 41.26 179.95 A 160 160 0 0 1 69.74 107.09 L 134.87 153.54 A 80 80 0 0 0 120.63 189.97 Z" fill="#1572B6" stroke="#0d1117" stroke-width="2" opacity="0.9">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.4s" fill="freeze"/>
+    </path>
+    <path d="M 70.56 105.95 A 160 160 0 0 1 121.70 60.47 L 160.85 130.23 A 80 80 0 0 0 135.28 152.98 Z" fill="#00599C" stroke="#0d1117" stroke-width="2" opacity="0.9">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.6s" fill="freeze"/>
+    </path>
+    <path d="M 122.92 59.79 A 160 160 0 0 1 168.65 43.10 L 184.32 121.55 A 80 80 0 0 0 161.46 129.90 Z" fill="#44B78B" stroke="#0d1117" stroke-width="2" opacity="0.9">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.8s" fill="freeze"/>
+    </path>
+    <path d="M 170.02 42.83 A 160 160 0 0 1 198.60 40.01 L 199.30 120.00 A 80 80 0 0 0 185.01 121.42 Z" fill="#4479A1" stroke="#0d1117" stroke-width="2" opacity="0.9">
+      <animate attributeName="opacity" from="0" to="0.9" dur="0.4s" begin="0.9s" fill="freeze"/>
+    </path>
 
-  <!-- JavaScript 20% -->
-  <text x="40" y="130" class="label">JavaScript</text>
-  <rect x="160" y="114" width="540" height="20" rx="10" fill="#21262d"/>
-  <rect x="160" y="114" width="108" height="20" rx="10" fill="#F7DF1E" class="bar"/>
-  <text x="712" y="130" class="pct">20%</text>
+  <!-- Center text -->
+  <circle cx="200" cy="200" r="70" fill="#0d1117"/>
+  <text x="200" y="192" font-family="Segoe UI,sans-serif" font-size="13" fill="#8b949e" text-anchor="middle">Top Lang</text>
+  <text x="200" y="214" font-family="Segoe UI,sans-serif" font-size="22" fill="#3776AB" text-anchor="middle" font-weight="700">Python</text>
+  <text x="200" y="234" font-family="Segoe UI,sans-serif" font-size="15" fill="#7aa2f7" text-anchor="middle" font-weight="600">45%</text>
 
-  <!-- HTML5 12% -->
-  <text x="40" y="170" class="label">HTML5</text>
-  <rect x="160" y="154" width="540" height="20" rx="10" fill="#21262d"/>
-  <rect x="160" y="154" width="65" height="20" rx="10" fill="#E34F26" class="bar"/>
-  <text x="712" y="170" class="pct">12%</text>
+  <!-- Labels -->
+  
+    <line x1="363.0" y1="174.2" x2="375.8" y2="172.2" stroke="#3776AB" stroke-width="1.5" opacity="0.7"/>
+    <text x="379.8" y="171.5" font-family="Segoe UI,sans-serif" font-size="12" fill="#3776AB" text-anchor="start" font-weight="600">Python</text>
+    <text x="379.8" y="185.5" font-family="Segoe UI,sans-serif" font-size="11" fill="#8b949e" text-anchor="start">45%</text>
+    <line x1="149.0" y1="356.9" x2="145.0" y2="369.3" stroke="#F7DF1E" stroke-width="1.5" opacity="0.7"/>
+    <text x="143.8" y="373.1" font-family="Segoe UI,sans-serif" font-size="12" fill="#F7DF1E" text-anchor="end" font-weight="600">JavaScript</text>
+    <text x="143.8" y="387.1" font-family="Segoe UI,sans-serif" font-size="11" fill="#8b949e" text-anchor="end">20%</text>
+    <line x1="40.2" y1="241.0" x2="27.6" y2="244.3" stroke="#E34F26" stroke-width="1.5" opacity="0.7"/>
+    <text x="23.7" y="245.3" font-family="Segoe UI,sans-serif" font-size="12" fill="#E34F26" text-anchor="end" font-weight="600">HTML5</text>
+    <text x="23.7" y="259.3" font-family="Segoe UI,sans-serif" font-size="11" fill="#8b949e" text-anchor="end">12%</text>
+    <line x1="46.6" y1="139.3" x2="34.5" y2="134.5" stroke="#1572B6" stroke-width="1.5" opacity="0.7"/>
+    <text x="30.8" y="133.0" font-family="Segoe UI,sans-serif" font-size="12" fill="#1572B6" text-anchor="end" font-weight="600">CSS3</text>
+    <text x="30.8" y="147.0" font-family="Segoe UI,sans-serif" font-size="11" fill="#8b949e" text-anchor="end">8%</text>
+    <line x1="90.9" y1="76.2" x2="82.3" y2="66.5" stroke="#00599C" stroke-width="1.5" opacity="0.7"/>
+    <text x="79.6" y="63.5" font-family="Segoe UI,sans-serif" font-size="12" fill="#00599C" text-anchor="end" font-weight="600">C++</text>
+    <text x="79.6" y="77.5" font-family="Segoe UI,sans-serif" font-size="11" fill="#8b949e" text-anchor="end">7%</text>
 
-  <!-- CSS3 8% -->
-  <text x="40" y="210" class="label">CSS3</text>
-  <rect x="160" y="194" width="540" height="20" rx="10" fill="#21262d"/>
-  <rect x="160" y="194" width="43" height="20" rx="10" fill="#1572B6" class="bar"/>
-  <text x="712" y="210" class="pct">8%</text>
+  <!-- Divider -->
+  <line x1="410" y1="60" x2="410" y2="400" stroke="#30363d" stroke-width="1"/>
 
-  <!-- C++ 7% -->
-  <text x="40" y="250" class="label">C++</text>
-  <rect x="160" y="234" width="540" height="20" rx="10" fill="#21262d"/>
-  <rect x="160" y="234" width="38" height="20" rx="10" fill="#00599C" class="bar"/>
-  <text x="712" y="250" class="pct">7%</text>
-
-  <!-- Django 5% -->
-  <text x="40" y="290" class="label">Django</text>
-  <rect x="160" y="274" width="540" height="20" rx="10" fill="#21262d"/>
-  <rect x="160" y="274" width="27" height="20" rx="10" fill="#092E20" class="bar"/>
-  <text x="712" y="290" class="pct">5%</text>
-
-  <!-- MySQL 3% -->
-  <text x="40" y="330" class="label">MySQL</text>
-  <rect x="160" y="314" width="540" height="20" rx="10" fill="#21262d"/>
-  <rect x="160" y="314" width="16" height="20" rx="10" fill="#4479A1" class="bar"/>
-  <text x="712" y="330" class="pct">3%</text>
+  <!-- Legend -->
+  
+    <rect x="430" y="80" width="16" height="16" rx="3" fill="#3776AB"/>
+    <text x="454" y="93" font-family="Segoe UI,sans-serif" font-size="14" fill="#e6edf3" font-weight="600">Python</text>
+    <text x="730" y="93" font-family="Segoe UI,sans-serif" font-size="14" fill="#3776AB" font-weight="700" text-anchor="end">45%</text>
+    <rect x="530" y="82" width="90" height="10" rx="5" fill="#3776AB" opacity="0.7">
+      <animate attributeName="width" from="0" to="90" dur="1s" begin="0.0s" fill="freeze"/>
+    </rect>
+    <rect x="430" y="118" width="16" height="16" rx="3" fill="#F7DF1E"/>
+    <text x="454" y="131" font-family="Segoe UI,sans-serif" font-size="14" fill="#e6edf3" font-weight="600">JavaScript</text>
+    <text x="730" y="131" font-family="Segoe UI,sans-serif" font-size="14" fill="#F7DF1E" font-weight="700" text-anchor="end">20%</text>
+    <rect x="530" y="120" width="40" height="10" rx="5" fill="#F7DF1E" opacity="0.7">
+      <animate attributeName="width" from="0" to="40" dur="1s" begin="0.1s" fill="freeze"/>
+    </rect>
+    <rect x="430" y="156" width="16" height="16" rx="3" fill="#E34F26"/>
+    <text x="454" y="169" font-family="Segoe UI,sans-serif" font-size="14" fill="#e6edf3" font-weight="600">HTML5</text>
+    <text x="730" y="169" font-family="Segoe UI,sans-serif" font-size="14" fill="#E34F26" font-weight="700" text-anchor="end">12%</text>
+    <rect x="530" y="158" width="24" height="10" rx="5" fill="#E34F26" opacity="0.7">
+      <animate attributeName="width" from="0" to="24" dur="1s" begin="0.3s" fill="freeze"/>
+    </rect>
+    <rect x="430" y="194" width="16" height="16" rx="3" fill="#1572B6"/>
+    <text x="454" y="207" font-family="Segoe UI,sans-serif" font-size="14" fill="#e6edf3" font-weight="600">CSS3</text>
+    <text x="730" y="207" font-family="Segoe UI,sans-serif" font-size="14" fill="#1572B6" font-weight="700" text-anchor="end">8%</text>
+    <rect x="530" y="196" width="16" height="10" rx="5" fill="#1572B6" opacity="0.7">
+      <animate attributeName="width" from="0" to="16" dur="1s" begin="0.4s" fill="freeze"/>
+    </rect>
+    <rect x="430" y="232" width="16" height="16" rx="3" fill="#00599C"/>
+    <text x="454" y="245" font-family="Segoe UI,sans-serif" font-size="14" fill="#e6edf3" font-weight="600">C++</text>
+    <text x="730" y="245" font-family="Segoe UI,sans-serif" font-size="14" fill="#00599C" font-weight="700" text-anchor="end">7%</text>
+    <rect x="530" y="234" width="14" height="10" rx="5" fill="#00599C" opacity="0.7">
+      <animate attributeName="width" from="0" to="14" dur="1s" begin="0.6s" fill="freeze"/>
+    </rect>
+    <rect x="430" y="270" width="16" height="16" rx="3" fill="#44B78B"/>
+    <text x="454" y="283" font-family="Segoe UI,sans-serif" font-size="14" fill="#e6edf3" font-weight="600">Django</text>
+    <text x="730" y="283" font-family="Segoe UI,sans-serif" font-size="14" fill="#44B78B" font-weight="700" text-anchor="end">5%</text>
+    <rect x="530" y="272" width="10" height="10" rx="5" fill="#44B78B" opacity="0.7">
+      <animate attributeName="width" from="0" to="10" dur="1s" begin="0.8s" fill="freeze"/>
+    </rect>
+    <rect x="430" y="308" width="16" height="16" rx="3" fill="#4479A1"/>
+    <text x="454" y="321" font-family="Segoe UI,sans-serif" font-size="14" fill="#e6edf3" font-weight="600">MySQL</text>
+    <text x="730" y="321" font-family="Segoe UI,sans-serif" font-size="14" fill="#4479A1" font-weight="700" text-anchor="end">3%</text>
+    <rect x="530" y="310" width="6" height="10" rx="5" fill="#4479A1" opacity="0.7">
+      <animate attributeName="width" from="0" to="6" dur="1s" begin="0.9s" fill="freeze"/>
+    </rect>
 
   <!-- Footer -->
-  <line x1="40" y1="350" x2="760" y2="350" stroke="#30363d" stroke-width="1"/>
-  <text x="40" y="375" font-family="Segoe UI" fill="#8b949e" font-size="11">Based on skill proficiency • Updated 2026</text>
-  <text x="600" y="375" font-family="Segoe UI" fill="#7aa2f7" font-size="11">github.com/saicharanindia</text>
+  <line x1="30" y1="395" x2="730" y2="395" stroke="#30363d" stroke-width="1"/>
+  <text x="40" y="413" font-family="Segoe UI,sans-serif" font-size="10" fill="#484f58">Based on skill proficiency • 2026</text>
+  <text x="720" y="413" font-family="Segoe UI,sans-serif" font-size="10" fill="#7aa2f7" text-anchor="end">github.com/saicharanindia</text>
 </svg>
