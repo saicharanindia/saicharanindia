@@ -324,21 +324,29 @@ Scale: Multi-class Institution
 
 <div align="center">
 
-<!-- GitHub Stats Card - using anuraghazra's reliable instance -->
-<img src="https://github-readme-stats.vercel.app/api?username=saicharanindia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=saicharanindia&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+<!-- Animated section divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<br/><br/>
+<!-- Stats + Streak — using alternate reliable hosts -->
+<a href="https://github.com/saicharanindia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saicharanindia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanindia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=a9b1d6&langs_count=8"/>
+</a>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanindia&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="220" alt="Top Languages"/>
+<br/>
+
+<!-- Streak Stats -->
+<a href="https://github.com/saicharanindia">
+  <img src="https://streak-stats.demolab.com?user=saicharanindia&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&dates=a9b1d6&sideLabels=a9b1d6" height="180"/>
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharanindia&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharanindia&theme=tokyo-night&hide_border=true&area=true&custom_title=Sai%20Charan's%20Contribution%20Graph" width="100%"/>
 </div>
 
 ### 🐍 Contribution Snake
@@ -350,9 +358,17 @@ Scale: Multi-class Institution
   </picture>
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
 ### 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 ---
@@ -612,7 +628,7 @@ const philosophy = {
 
 ### 🚀 Let's Build Something Amazing Together!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=000000&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 **⭐ If you find my projects interesting, consider starring them!**
 
@@ -622,6 +638,6 @@ const philosophy = {
 
 <img src="https://komarev.com/ghpvc/?username=saicharanindia&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
 
-*Last Updated: January 2025* | *Built with ❤️ and ☕*
+*Last Updated: July 2026* | *Built with ❤️ and ☕*
 
 </div>
