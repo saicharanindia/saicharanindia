@@ -383,21 +383,13 @@ Scale: Multi-class Institution
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-### 📈 Contribution Graph
+### 📈 GitHub Contribution Analytics
+
 <div align="center">
 
-<!-- 3D Isometric Contribution Graph — self hosted, always visible -->
-<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/contrib-3d.svg" alt="3D Contribution Graph" width="100%"/>
+<!-- Comprehensive GitHub Dashboard: 3D Contributions + Language Chart + Radar + Stats -->
+<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/contrib-3d.svg?dashboard=2026" alt="GitHub Contribution Dashboard" width="100%"/>
 
-</div>
-
-### 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake-light.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 <div align="center">
@@ -671,6 +663,6 @@ const philosophy = {
 
 <img src="https://komarev.com/ghpvc/?username=saicharanindia&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
 
-*Last Updated: July 2026* | *Built with ❤️ and ☕*
+*Last Updated: July 2026* | *Built with ❤️ and ☕* | *Updated: 2026-07-29 08:07:00*
 
 </div>
