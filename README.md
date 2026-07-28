@@ -326,30 +326,72 @@ Scale: Multi-class Institution
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- Stats Card -->
-<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/metrics-overview.svg" alt="GitHub Stats" width="60%"/>
+<!-- Big Stats Card - Full Width -->
+<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/metrics-overview.svg" alt="GitHub Stats" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
+---
+
 ### 💻 Most Used Languages
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-45%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-12%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-5%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-3%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table width="100%">
+<tr>
+<td align="center" width="14%">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" height="60"/><br/>
+<img src="https://img.shields.io/badge/Python-45%25-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</td>
+<td align="center" width="14%">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="60" height="60"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
+<td align="center" width="14%">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="60" height="60"/><br/>
+<img src="https://img.shields.io/badge/HTML5-12%25-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</td>
+<td align="center" width="14%">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="60" height="60"/><br/>
+<img src="https://img.shields.io/badge/CSS3-8%25-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</td>
+<td align="center" width="14%">
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60" height="60"/><br/>
+<img src="https://img.shields.io/badge/C++-7%25-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+</td>
+<td align="center" width="14%">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="60" height="60"/><br/>
+<img src="https://img.shields.io/badge/C-5%25-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+</td>
+<td align="center" width="14%">
+<img src="https://skillicons.dev/icons?i=django&theme=dark" width="60" height="60"/><br/>
+<img src="https://img.shields.io/badge/Django-3%25-092E20?style=flat-square&logo=django&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- Language bar visual -->
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c,django,mysql&theme=dark" />
+<!-- Full animated skill icon row -->
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c,django,mysql,git,docker,vscode,postman&theme=dark&perline=12" />
 
+<br/><br/>
+
+<!-- Language proficiency bars using progress-style badges -->
+<img src="https://img.shields.io/badge/Python-████████████████████░░░░-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/JavaScript-████████████░░░░░░░░░░░░-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/HTML5-██████████░░░░░░░░░░░░░░-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/CSS3-███████░░░░░░░░░░░░░░░░░-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/C++-██████░░░░░░░░░░░░░░░░░░-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Django-████░░░░░░░░░░░░░░░░░░░░-092E20?style=for-the-badge&logo=django&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/MySQL-████░░░░░░░░░░░░░░░░░░░░-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 ### 🏅 GitHub Achievements
