@@ -339,42 +339,13 @@ Scale: Multi-class Institution
 
 <div align="center">
 
-<!-- Large skill icons -->
+<!-- Animated skill icons grid -->
 <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c,django,mysql,git,docker,vscode,postman&theme=dark&perline=6" />
 
 <br/><br/>
 
-<!-- Clean language percentage table -->
-<table>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-  <td><img src="https://progress-bar.dev/45?title=45%25&width=300&color=3776AB"/></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-  <td><img src="https://progress-bar.dev/20?title=20%25&width=300&color=F7DF1E"/></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-  <td><img src="https://progress-bar.dev/12?title=12%25&width=300&color=E34F26"/></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
-  <td><img src="https://progress-bar.dev/8?title=8%25&width=300&color=1572B6"/></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></td>
-  <td><img src="https://progress-bar.dev/7?title=7%25&width=300&color=00599C"/></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></td>
-  <td><img src="https://progress-bar.dev/5?title=5%25&width=300&color=092E20"/></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-  <td><img src="https://progress-bar.dev/3?title=3%25&width=300&color=4479A1"/></td>
-</tr>
-</table>
+<!-- Self-hosted animated language chart SVG — never breaks -->
+<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/languages.svg" alt="Most Used Languages" width="100%"/>
 
 </div>
 
