@@ -6,14 +6,88 @@
   <text x="450" y="80" font-family="Arial,sans-serif" font-size="15"
         fill="#888" text-anchor="middle">Sanivarapu Sai Charan — Skill Proficiency</text>
 
-  <path d="M453.8,210.0 A220,220 0 0,1 521.6,638.0 L485.2,532.1 A108,108 0 0,0 451.9,322.0 Z" fill="#3670A0" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/></path>
-<path d="M514.3,640.4 A220,220 0 0,1 274.3,562.4 L363.7,495.0 A108,108 0 0,0 481.6,533.3 Z" fill="#c8a800" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.10s" fill="freeze"/></path>
-<path d="M269.8,556.2 A220,220 0 0,1 231.3,406.2 L342.6,418.3 A108,108 0 0,0 361.5,491.9 Z" fill="#E44D26" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.20s" fill="freeze"/></path>
-<path d="M232.2,398.6 A220,220 0 0,1 269.8,303.8 L361.5,368.1 A108,108 0 0,0 343.1,414.6 Z" fill="#264DE4" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/></path>
-<path d="M274.3,297.6 A220,220 0 0,1 340.7,239.1 L396.3,336.3 A108,108 0 0,0 363.7,365.0 Z" fill="#00599C" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.40s" fill="freeze"/></path>
-<path d="M347.4,235.4 A220,220 0 0,1 405.0,214.6 L427.9,324.3 A108,108 0 0,0 399.6,334.5 Z" fill="#44B78B" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.50s" fill="freeze"/></path>
-<path d="M412.6,213.2 A220,220 0 0,1 446.2,210.0 L448.1,322.0 A108,108 0 0,0 431.6,323.6 Z" fill="#4479A1" stroke="white" stroke-width="3"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/></path>
-
+  
+  <path d="M453.8,210.0 A220,220 0 0,1 521.6,638.0 L485.2,532.1 A108,108 0 0,0 451.9,322.0 Z" fill="#3670A0" stroke="white" stroke-width="3">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
+  </path>
+  <circle cx="612.0" cy="404.3" r="18" fill="rgba(0,0,0,0.25)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.30s" fill="freeze"/>
+  </circle>
+  <text x="612.0" y="409.3"
+        font-family="Arial,sans-serif" font-size="16" font-weight="900"
+        fill="white" text-anchor="middle" opacity="0"
+        style="text-shadow: 0 1px 2px rgba(0,0,0,0.5)">
+    Py
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.30s" fill="freeze"/>
+  </text>
+  <path d="M514.3,640.4 A220,220 0 0,1 274.3,562.4 L363.7,495.0 A108,108 0 0,0 481.6,533.3 Z" fill="#c8a800" stroke="white" stroke-width="3">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.10s" fill="freeze"/>
+  </path>
+  <circle cx="399.3" cy="586.0" r="18" fill="rgba(0,0,0,0.25)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.40s" fill="freeze"/>
+  </circle>
+  <text x="399.3" y="591.0"
+        font-family="Arial,sans-serif" font-size="16" font-weight="900"
+        fill="black" text-anchor="middle" opacity="0"
+        style="text-shadow: 0 1px 2px rgba(0,0,0,0.5)">
+    JS
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.40s" fill="freeze"/>
+  </text>
+  <path d="M269.8,556.2 A220,220 0 0,1 231.3,406.2 L342.6,418.3 A108,108 0 0,0 361.5,491.9 Z" fill="#E44D26" stroke="white" stroke-width="3">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.20s" fill="freeze"/>
+  </path>
+  <circle cx="291.2" cy="470.8" r="18" fill="rgba(0,0,0,0.25)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/>
+  </circle>
+  <text x="291.2" y="475.8"
+        font-family="Arial,sans-serif" font-size="16" font-weight="900"
+        fill="white" text-anchor="middle" opacity="0"
+        style="text-shadow: 0 1px 2px rgba(0,0,0,0.5)">
+    H5
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.50s" fill="freeze"/>
+  </text>
+  <path d="M232.2,398.6 A220,220 0 0,1 269.8,303.8 L361.5,368.1 A108,108 0 0,0 343.1,414.6 Z" fill="#264DE4" stroke="white" stroke-width="3">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/>
+  </path>
+  <circle cx="297.5" cy="369.6" r="18" fill="rgba(0,0,0,0.25)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/>
+  </circle>
+  <text x="297.5" y="374.6"
+        font-family="Arial,sans-serif" font-size="14" font-weight="900"
+        fill="white" text-anchor="middle" opacity="0"
+        style="text-shadow: 0 1px 2px rgba(0,0,0,0.5)">
+    CSS
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.60s" fill="freeze"/>
+  </text>
+  <path d="M274.3,297.6 A220,220 0 0,1 340.7,239.1 L396.3,336.3 A108,108 0 0,0 363.7,365.0 Z" fill="#00599C" stroke="white" stroke-width="3">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.40s" fill="freeze"/>
+  </path>
+  <circle cx="341.5" cy="307.0" r="18" fill="rgba(0,0,0,0.25)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/>
+  </circle>
+  <text x="341.5" y="312.0"
+        font-family="Arial,sans-serif" font-size="14" font-weight="900"
+        fill="white" text-anchor="middle" opacity="0"
+        style="text-shadow: 0 1px 2px rgba(0,0,0,0.5)">
+    C++
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.70s" fill="freeze"/>
+  </text>
+  <path d="M347.4,235.4 A220,220 0 0,1 405.0,214.6 L427.9,324.3 A108,108 0 0,0 399.6,334.5 Z" fill="#44B78B" stroke="white" stroke-width="3">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.50s" fill="freeze"/>
+  </path>
+  <circle cx="394.4" cy="275.7" r="18" fill="rgba(0,0,0,0.25)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
+  </circle>
+  <text x="394.4" y="280.7"
+        font-family="Arial,sans-serif" font-size="16" font-weight="900"
+        fill="white" text-anchor="middle" opacity="0"
+        style="text-shadow: 0 1px 2px rgba(0,0,0,0.5)">
+    Dj
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
+  </text>
+  <path d="M412.6,213.2 A220,220 0 0,1 446.2,210.0 L448.1,322.0 A108,108 0 0,0 431.6,323.6 Z" fill="#4479A1" stroke="white" stroke-width="3">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
+  </path>
 
   <circle cx="450" cy="430" r="106" fill="white"/>
 
@@ -105,41 +179,41 @@
     8%
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.80s" fill="freeze"/>
   </text>
-  <line x1="297.9" y1="257.5" x2="261.5" y2="216.2"
+  <line x1="297.9" y1="257.5" x2="261.5" y2="218.3"
         stroke="#00599C" stroke-width="1.8" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
   </line>
-  <line x1="261.5" y1="216.2" x2="229.5" y2="216.2"
+  <line x1="261.5" y1="218.3" x2="229.5" y2="218.3"
         stroke="#00599C" stroke-width="1.8" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
   </line>
-  <text x="224.5" y="211.2"
+  <text x="224.5" y="213.3"
         font-family="Arial,sans-serif" font-size="16" font-weight="700"
         fill="#111" text-anchor="end" opacity="0">
     C++
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
   </text>
-  <text x="224.5" y="230.2"
+  <text x="224.5" y="232.3"
         font-family="Arial,sans-serif" font-size="13"
         fill="#666" text-anchor="end" opacity="0">
     7%
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.90s" fill="freeze"/>
   </text>
-  <line x1="372.1" y1="213.6" x2="353.5" y2="180.3"
+  <line x1="372.1" y1="213.6" x2="353.5" y2="182.3"
         stroke="#44B78B" stroke-width="1.8" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
   </line>
-  <line x1="353.5" y1="180.3" x2="321.5" y2="180.3"
+  <line x1="353.5" y1="182.3" x2="321.5" y2="182.3"
         stroke="#44B78B" stroke-width="1.8" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
   </line>
-  <text x="316.5" y="175.3"
+  <text x="316.5" y="177.3"
         font-family="Arial,sans-serif" font-size="16" font-weight="700"
         fill="#111" text-anchor="end" opacity="0">
     Django
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.00s" fill="freeze"/>
   </text>
-  <text x="316.5" y="194.3"
+  <text x="316.5" y="196.3"
         font-family="Arial,sans-serif" font-size="13"
         fill="#666" text-anchor="end" opacity="0">
     5%
