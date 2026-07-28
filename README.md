@@ -323,18 +323,22 @@ Scale: Multi-class Institution
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saicharanindia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=saicharanindia&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanindia&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saicharanindia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&count_private=true&include_all_commits=true" />
+<!-- Row 1: Stats + Streak -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saicharanindia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img width="48%" src="https://streak-stats.demolab.com?user=saicharanindia&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&dates=a9b1d6&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+
+<br/>
+
+<!-- Row 2: Top Languages + WakaTime style activity -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanindia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saicharanindia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&hide=stars&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Extra Stats" />
 
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharanindia&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=7aa2f7" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saicharanindia&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=7aa2f7&area=true&area_color=7aa2f7" alt="Contribution Graph" />
 </div>
 
 ### 🐍 Contribution Snake
@@ -342,14 +346,13 @@ Scale: Multi-class Institution
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake-light.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
-</div>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
