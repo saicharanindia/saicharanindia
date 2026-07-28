@@ -1,0 +1,86 @@
+# ============================================================
+# Generate GitHub Metrics SVGs using lowlighter/metrics
+# Saved to dist/ folder → served from raw.githubusercontent.com
+# Never blocked by GitHub CSP!
+# ============================================================
+
+name: 📊 Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      # ── Stats Overview Card ───────────────────────────────────
+      - name: 📊 Stats Overview
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics-overview.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: saicharanindia
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+          config_animations: yes
+          config_display: large
+
+      # ── Languages Card ────────────────────────────────────────
+      - name: 💻 Languages Card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: saicharanindia
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          config_timezone: Asia/Kolkata
+          config_animations: yes
+
+      # ── Achievements Card ─────────────────────────────────────
+      - name: 🏆 Achievements Card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: dist/metrics-achievements.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: saicharanindia
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          config_timezone: Asia/Kolkata
+          config_animations: yes
+
+      # ── Push all generated SVGs to dist/ on main branch ──────
+      - name: 🚀 Push Generated SVGs
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "📊 Auto-update metrics SVGs [skip ci]"
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
