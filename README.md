@@ -339,12 +339,12 @@ Scale: Multi-class Institution
 
 <div align="center">
 
-<!-- Animated skill icons grid -->
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c,django,mysql,git,docker,vscode,postman&theme=dark&perline=6" />
+<!-- Skill icons - no theme (default colorful) -->
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c,django,mysql,git,docker,vscode,postman&perline=6" />
 
 <br/><br/>
 
-<!-- Self-hosted animated language chart SVG — never breaks -->
+<!-- Premium animated donut chart - self hosted -->
 <img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/languages.svg" alt="Most Used Languages" width="100%"/>
 
 </div>
