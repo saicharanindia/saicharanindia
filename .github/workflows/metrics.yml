@@ -1,5 +1,6 @@
 # ============================================================
 # Generate GitHub Metrics SVGs using lowlighter/metrics
+# Only generates Stats + Achievements (Languages skipped — no code yet)
 # ============================================================
 
 name: 📊 Generate Metrics
@@ -21,7 +22,7 @@ jobs:
       - name: 📥 Checkout
         uses: actions/checkout@v4
 
-      # ── Card 1: GitHub Stats (large, no table) ────────────────
+      # ── Card 1: GitHub Stats Overview ─────────────────────────
       - name: 📊 Stats Card
         uses: lowlighter/metrics@latest
         with:
@@ -37,31 +38,7 @@ jobs:
           config_display: large
           config_padding: 6%, 10%
 
-      # ── Card 2: Languages ─────────────────────────────────────
-      - name: 💻 Languages Card
-        uses: lowlighter/metrics@latest
-        with:
-          filename: dist/metrics-languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: saicharanindia
-          template: classic
-          base: ""
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage, bytes-size
-          plugin_languages_ignored: html, css, dockerfile, makefile
-          plugin_languages_threshold: 0%
-          plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 500
-          config_timezone: Asia/Kolkata
-          config_animations: yes
-          config_display: large
-          config_padding: 6%, 10%
-
-      # ── Card 3: Achievements (YOLO, Quickdraw etc.) ───────────
+      # ── Card 2: Achievements ──────────────────────────────────
       - name: 🏆 Achievements Card
         uses: lowlighter/metrics@latest
         with:
