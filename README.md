@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Sanivarapu Sai Charan
+# 🚀 Sanivarapu Sai Charan 👋🏻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%26+System+Designer+%E2%9A%A1;Building+Scalable+Solutions+%F0%9F%8C%90)](https://git.io/typing-svg)
 
