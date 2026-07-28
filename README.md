@@ -385,7 +385,10 @@ Scale: Multi-class Institution
 
 ### 📈 Contribution Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharanindia&theme=tokyo-night&hide_border=true&area=true&custom_title=Sai%20Charan%27s%20Contribution%20Graph" width="100%"/>
+
+<!-- 3D Isometric Contribution Graph — self hosted, always visible -->
+<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/contrib-3d.svg" alt="3D Contribution Graph" width="100%"/>
+
 </div>
 
 ### 🐍 Contribution Snake
