@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Sanivarapu Sai Charan 👋🏻
+# 🚀 Sanivarapu Sai Charan
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%26+System+Designer+%E2%9A%A1;Building+Scalable+Solutions+%F0%9F%8C%90)](https://git.io/typing-svg)
 
@@ -305,10 +305,10 @@ Scale: Multi-class Institution
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saicharanindia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saicharanindia&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=saicharanindia&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicharanindia&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saicharanindia&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saicharanindia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&count_private=true&include_all_commits=true" />
 
 </div>
 
@@ -557,7 +557,7 @@ const philosophy = {
 // "The best way to predict the future is to build it." 🚀
 ```
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Sai%20Charan" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Sai%20Charan" />
 
 </div>
 
@@ -584,7 +584,7 @@ const philosophy = {
 
 ### 🚀 Let's Build Something Amazing Together!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=000000&animation=twinkling" />
 
 **⭐ If you find my projects interesting, consider starring them!**
 
