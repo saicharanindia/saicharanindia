@@ -1,8 +1,25 @@
 <div align="center">
-  
-# 🚀 Sanivarapu Sai Charan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%26+System+Designer+%E2%9A%A1;Building+Scalable+Solutions+%F0%9F%8C%90)](https://git.io/typing-svg)
+<!-- Greeting Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descSize=18" width="100%" />
+
+<!-- Greeting Line -->
+<h2>
+  👋 Hello! &nbsp; నమస్కారం! &nbsp; 🙏 Vanakkam! &nbsp; Hi There! 🌟
+</h2>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> &nbsp; I'm Sanivarapu Sai Charan
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=👋+Hello+World!+I'm+Sai+Charan;🚀+Full+Stack+Software+Engineer;🤖+AI+%26+ML+Enthusiast;🏆+Hackathon+Winner+%40+Vignan+University;⚡+Building+Scalable+%26+Smart+Solutions;🌟+Open+Source+Contributor+%26+Mentor" alt="Typing SVG" />
+
+<br/>
+
+<!-- Greeting badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/👋_Welcome_to_my_Profile!-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🌍_Based_in-Andhra_Pradesh,_India-bb9af7?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🎓_B.Tech_IT-Vignan's_Foundation_2027-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saicharanindia&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
@@ -328,7 +345,10 @@ Scale: Multi-class Institution
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=10&rank=SECRET,SSS,SS,S" />
+</div>
 </div>
 
 ---
