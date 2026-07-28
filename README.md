@@ -319,7 +319,11 @@ Scale: Multi-class Institution
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake-light.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ### 🏆 GitHub Trophies
