@@ -1,37 +1,40 @@
 <div align="center">
 
-<!-- Greeting Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descSize=18" width="100%" />
+<!-- Top Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=200&section=header&text=Sanivarapu%20Sai%20Charan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=16" width="100%" />
 
-<!-- Greeting Line -->
-<h2>
-  👋 Hello! &nbsp; నమస్కారం! &nbsp; 🙏 Vanakkam! &nbsp; Hi There! 🌟
-</h2>
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> &nbsp; I'm Sanivarapu Sai Charan
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=👋+Hello+World!+I'm+Sai+Charan;🚀+Full+Stack+Software+Engineer;🤖+AI+%26+ML+Enthusiast;🏆+Hackathon+Winner+%40+Vignan+University;⚡+Building+Scalable+%26+Smart+Solutions;🌟+Open+Source+Contributor+%26+Mentor" alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&random=false&width=850&height=60&lines=🚀+Full+Stack+Software+Engineer;🤖+AI+%26+ML+Enthusiast;🏆+Hackathon+Winner+%40+Vignan+University;⚡+Building+Scalable+%26+Smart+Solutions;🌟+Open+Source+Contributor+%26+Mentor;💻+Django+%7C+Python+%7C+JavaScript+Developer" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Greeting badges -->
+<!-- Stats Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/👋_Welcome_to_my_Profile!-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/🌍_Based_in-Andhra_Pradesh,_India-bb9af7?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/🎓_B.Tech_IT-Vignan's_Foundation_2027-7aa2f7?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://komarev.com/ghpvc/?username=saicharanindia&label=Profile+Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/saicharanindia?label=Followers&style=for-the-badge&color=bb9af7&labelColor=1a1b27" alt="followers" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-✅-00b894?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
+<!-- Social Links -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saicharanindia&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/saicharanindia?label=Followers&style=for-the-badge&color=7aa2f7" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7aa2f7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialization-AI%20%26%20Cloud-bb9af7?style=for-the-badge" />
+  <a href="https://linkedin.com/in/mr-sanivarapu-sai-charan-1721ba324">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saicharan.svs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Innovatesss">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/231fa0l18o">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://github.com/saicharanindia">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ssatya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saicharan.svs@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Innovatesss)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/saicharanindia)
 
 </div>
 
@@ -345,9 +348,7 @@ Scale: Multi-class Institution
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=10&rank=SECRET,SSS,SS,S" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=saicharanindia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </div>
 </div>
 
@@ -510,28 +511,28 @@ High School:
 
 <p align="center">
   <a href="mailto:saicharan.svs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saicharan.svs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ssatya">
-    <img src="https://img.shields.io/badge/LinkedIn-Sai%20Charan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/mr-sanivarapu-sai-charan-1721ba324">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/saicharanindia">
-    <img src="https://img.shields.io/badge/GitHub-saicharanindia-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/Innovatesss">
-    <img src="https://img.shields.io/badge/LeetCode-Innovatesss-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/231fa0l18o">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-231fa0l18o-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/saicharan_svs">
-    <img src="https://img.shields.io/badge/HackerRank-saicharan__svs-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
   <a href="https://www.codechef.com/users/saicharanindia">
-    <img src="https://img.shields.io/badge/CodeChef-saicharanindia-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
