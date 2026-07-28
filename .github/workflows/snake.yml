@@ -1,0 +1,65 @@
+# ============================================================
+# GitHub Actions Workflow: Generate Snake Contribution Animation
+# Author: saicharanindia
+# Runs: Daily at midnight + on manual trigger
+# Output: SVG files pushed to 'output' branch
+# ============================================================
+
+name: 🐍 Generate Snake Animation
+
+on:
+  # Run every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual trigger from Actions tab
+  workflow_dispatch:
+
+  # Also run on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    name: 🎮 Generate Snake SVG
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write  # Required to push to output branch
+
+    steps:
+      # ── Step 1: Checkout the repo ─────────────────────────────
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      # ── Step 2: Generate all 3 snake SVG variants ─────────────
+      - name: 🐍 Generate Snake Animation (Default)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: saicharanindia
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── Step 3: Push generated SVGs to output branch ──────────
+      - name: 🚀 Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🐍 Auto-update snake animation [skip ci]"
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── Step 4: Log success ───────────────────────────────────
+      - name: ✅ Done
+        run: |
+          echo "Snake animation generated successfully!"
+          echo "Files available at: https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/"
+          ls -la dist/ || echo "dist folder not found locally (pushed to output branch)"
