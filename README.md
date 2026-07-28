@@ -345,7 +345,7 @@ Scale: Multi-class Institution
 <br/><br/>
 
 <!-- Premium animated donut chart - self hosted -->
-<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/languages.svg" alt="Most Used Languages" width="100%"/>
+<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/lang-chart.svg" alt="Most Used Languages" width="100%"/>
 
 </div>
 
