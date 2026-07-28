@@ -326,11 +326,29 @@ Scale: Multi-class Institution
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- Row 1: Stats + Languages — self-hosted, never blocked -->
-<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/metrics-overview.svg" alt="GitHub Stats" width="49%"/>
-<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/metrics-languages.svg" alt="Top Languages" width="49%"/>
+<!-- Stats Card -->
+<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/metrics-overview.svg" alt="GitHub Stats" width="60%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+### 💻 Most Used Languages
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-45%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-12%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-7%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-5%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+
+<!-- Language bar visual -->
+<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c,django,mysql&theme=dark" />
 
 </div>
 
