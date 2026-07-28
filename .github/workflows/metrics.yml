@@ -1,7 +1,5 @@
 # ============================================================
 # Generate GitHub Metrics SVGs using lowlighter/metrics
-# Saved to dist/ folder → served from raw.githubusercontent.com
-# Never blocked by GitHub CSP!
 # ============================================================
 
 name: 📊 Generate Metrics
@@ -23,20 +21,22 @@ jobs:
       - name: 📥 Checkout
         uses: actions/checkout@v4
 
-      # ── Stats Overview Card ───────────────────────────────────
-      - name: 📊 Stats Overview
+      # ── Card 1: GitHub Stats (large, no table) ────────────────
+      - name: 📊 Stats Card
         uses: lowlighter/metrics@latest
         with:
           filename: dist/metrics-overview.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           user: saicharanindia
           template: classic
-          base: header, activity, community, repositories
+          base: header, repositories
+          base_indepth: yes
           config_timezone: Asia/Kolkata
           config_animations: yes
           config_display: large
+          config_padding: 6%, 10%
 
-      # ── Languages Card ────────────────────────────────────────
+      # ── Card 2: Languages ─────────────────────────────────────
       - name: 💻 Languages Card
         uses: lowlighter/metrics@latest
         with:
@@ -46,19 +46,16 @@ jobs:
           template: classic
           base: ""
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
+          plugin_languages_details: percentage, bytes-size
           plugin_languages_threshold: 0%
           config_timezone: Asia/Kolkata
           config_animations: yes
+          config_display: large
+          config_padding: 6%, 10%
 
-      # ── Achievements Card ─────────────────────────────────────
+      # ── Card 3: Achievements (YOLO, Quickdraw etc.) ───────────
       - name: 🏆 Achievements Card
         uses: lowlighter/metrics@latest
         with:
@@ -70,17 +67,20 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_limit: 0
+          plugin_achievements_threshold: X
           config_timezone: Asia/Kolkata
           config_animations: yes
+          config_display: large
+          config_padding: 6%, 10%
 
-      # ── Push all generated SVGs to dist/ on main branch ──────
-      - name: 🚀 Push Generated SVGs
+      # ── Push SVGs to output branch ────────────────────────────
+      - name: 🚀 Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "📊 Auto-update metrics SVGs [skip ci]"
+          commit_message: "📊 Auto-update metrics [skip ci]"
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
