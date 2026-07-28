@@ -30,13 +30,14 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: saicharanindia
           template: classic
-          base: header, repositories
+          base: header, repositories, activity, community
           base_indepth: yes
           repositories_forks: yes
           config_timezone: Asia/Kolkata
           config_animations: yes
           config_display: large
-          config_padding: 6%, 10%
+          config_padding: 8%, 12%
+          config_output: svg
 
       # ── Card 2: Achievements ──────────────────────────────────
       - name: 🏆 Achievements Card
