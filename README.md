@@ -387,8 +387,13 @@ Scale: Multi-class Institution
 
 <div align="center">
 
+<<<<<<< HEAD
 <!-- Comprehensive GitHub Dashboard: 3D Contributions + Language Chart + Radar + Stats -->
 <img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-dashboard-v2.svg?dashboard=2026" alt="GitHub Contribution Dashboard" width="100%"/>
+=======
+<!-- 3D Contribution Calendar -->
+<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" width="100%"/>
+>>>>>>> 6ff50d1 (Add official github-profile-3d-contrib implementation)
 
 </div>
 
