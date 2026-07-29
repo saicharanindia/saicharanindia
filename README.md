@@ -388,7 +388,7 @@ Scale: Multi-class Institution
 <div align="center">
 
 <!-- Comprehensive GitHub Dashboard: 3D Contributions + Language Chart + Radar + Stats -->
-<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/contrib-3d.svg?dashboard=2026" alt="GitHub Contribution Dashboard" width="100%"/>
+<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/output/github-dashboard-v2.svg?dashboard=2026" alt="GitHub Contribution Dashboard" width="100%"/>
 
 </div>
 
