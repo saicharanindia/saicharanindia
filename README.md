@@ -387,8 +387,7 @@ Scale: Multi-class Institution
 
 <div align="center">
 
-<!-- 3D Contribution Calendar -->
-<img src="https://raw.githubusercontent.com/saicharanindia/saicharanindia/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saicharanindia&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=39d353&area=true&hide_border=true&area_color=1a1b27" width="100%" alt="Contribution Graph"/>
 
 </div>
 
